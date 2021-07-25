@@ -11,7 +11,7 @@ class Hacker extends Programmer{
     }
 }
 
-public class Main4{
+public class PrandHr{
     public static void main (String[] args) {
         Programmer h1 = new Hacker();
         h1.display();
