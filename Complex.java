@@ -32,7 +32,7 @@ class Complex_A extends Complex{
 }
 
 
-public class Main2 {
+public class Complex {
     public static void main(String[] args)
     {
 
