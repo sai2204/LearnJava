@@ -83,7 +83,7 @@ class Cycle extends Two_wheeler{
 }
 
 
-public class Main5 {
+public class Automobile {
 
     public static void main(String[] args) {
         System.out.println("Details of Toto : ");
