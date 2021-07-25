@@ -37,7 +37,7 @@ class mathop {
 
 
 }
-public class Main3
+public class ComplexandAdd
 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
