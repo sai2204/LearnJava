@@ -50,7 +50,7 @@ class Square extends Shape{
     }
 }
 
-public class Main {
+public class Shape {
     public static void main(String[] args) {
         Rectangle r1 = new Rectangle();
         Scanner sc=new Scanner(System.in);
